@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
+// Rendering donut
+
 int k;
 double sin(), cos();
 
