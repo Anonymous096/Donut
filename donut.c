@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-// Rendering Donut
+// Rendering Donut.
 
 int k;
 double sin(), cos();
