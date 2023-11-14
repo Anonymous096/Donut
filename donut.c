@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-
-// RENDERING DONUT
-
+// RENDERING DONUT SHIT
 int k;
 double sin(), cos();
 
