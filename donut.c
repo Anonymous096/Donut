@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-// RENDERING DONUT
+
 int k;
 double sin(), cos();
 
